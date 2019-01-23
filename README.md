@@ -3,6 +3,7 @@ A project for Auto Encoder Neural Network
 参考 https://github.com/Karllzy/DL-Project-Template.git
 
 ## 预计程序文件夹结构
+下面标上#的表示已经完成，标上*"的表示正在开发
 
 ```text
 ├── bases
