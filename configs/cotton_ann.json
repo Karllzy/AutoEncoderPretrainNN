@@ -1,0 +1,26 @@
+{
+  "exp_name": "cotton_ann",
+
+  "train_set_rate":0.8, 
+  "test_set_rate":0.15,
+  "sample_index":"/home/zhenye/Documents/modified_code/experiments/Cotton_VS_PlasticFilm/Cotton_data/sample_index.txt",
+ 
+  "input_shape":288,
+  "first_layer_size":288,
+  "first_layer_activation":"sigmoid",
+  "second_layer_size":144,
+  "second_layer_activation":"sigmoid",
+  "third_layer_size":72,
+  "third_layer_activation":"sigmoid",
+  "forth_layer_size":72,
+  "forth_layer_activation":"sigmoid",
+  "fifth_layer_size":72,
+  "fifth_layer_activation":"sigmoid",
+  "output_shape":7,
+  "output_activation":"softmax",
+
+  "general_loss_func":"mse",
+  "general_lr":1e-4
+  
+
+}
