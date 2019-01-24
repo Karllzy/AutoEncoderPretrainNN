@@ -41,3 +41,6 @@ A project for Auto Encoder Neural Network
     ├── config_utils.py                 - 配置工具类#
     ├── np_utils.py                     - NumPy工具类*
     ├── utils.py                        - 其他工具类#
+
+## 总网络结构
+![网络结构](AutoEncoderPretrainNN/trainers/experiments/cotton_ann/images/AutoEncoderNN_Model.png)
