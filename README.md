@@ -44,10 +44,10 @@ A project for Auto Encoder Neural Network
 ```
 
 # 总网络结构
-
+前三层是自编码器层，用于计算权重
 ![image](https://github.com/Karllzy/AutoEncoderPretrainNN/blob/master/trainers/experiments/cotton_ann/images/AutoEncoderNN_Model.png)
 
 
 # 预训练加载的网络结构
-
+预先计算权重时的网络结构如下
 ![image](https://github.com/Karllzy/AutoEncoderPretrainNN/blob/master/trainers/experiments/cotton_ann/images/sub_model1.png)
