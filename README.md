@@ -43,9 +43,10 @@ A project for Auto Encoder Neural Network
     ├── utils.py                        - 其他工具类#
 
 # 总网络结构
+
 ![image](https://github.com/Karllzy/AutoEncoderPretrainNN/blob/master/trainers/experiments/cotton_ann/images/AutoEncoderNN_Model.png)
 
 
 # 预训练加载的网络结构
-![image]
-(https://github.com/Karllzy/AutoEncoderPretrainNN/blob/master/trainers/experiments/cotton_ann/images/sub_model1.png)
+
+![image](https://github.com/Karllzy/AutoEncoderPretrainNN/blob/master/trainers/experiments/cotton_ann/images/sub_model1.png)
